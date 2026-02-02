@@ -9,11 +9,7 @@ I focus on defining metrics correctly, building trustworthy analytics, and telli
 - **Analytics storytelling** — translating ambiguity into decisions, not just charts
 
 ### Featured projects
-- **Retention Metric Deep Dive**  
-  Defining and comparing retention metrics, highlighting tradeoffs and business impact  
-  👉 https://github.com/anderson-tegami/retention-metric-deep-dive
-
-- *(More projects coming soon — SQL, metrics, and dashboard case studies)*
+ *(More projects coming soon — SQL, metrics, and dashboard case studies)*
 
 ### Get in touch
 - 💼 LinkedIn: https://www.linkedin.com/in/anderson-tegami  
