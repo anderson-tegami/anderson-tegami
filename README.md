@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m Anderson Tegami 👋
 
-<!--
-**anderson-tegami/anderson-tegami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Analyst with experience turning complex data into clear, actionable insights.  
+I focus on defining metrics correctly, building trustworthy analytics, and telling stories that drive decisions.
 
-Here are some ideas to get you started:
+### What I work with
+- **SQL** — complex joins, CTEs, cohort analysis, metric definitions, data validation
+- **Tableau** — dashboards focused on clarity, usability, and stakeholder trust
+- **Analytics storytelling** — translating ambiguity into decisions, not just charts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- **Retention Metric Deep Dive**  
+  Defining and comparing retention metrics, highlighting tradeoffs and business impact  
+  👉 https://github.com/anderson-tegami/retention-metric-deep-dive
+
+- *(More projects coming soon — SQL, metrics, and dashboard case studies)*
+
+### Get in touch
+- 💼 LinkedIn: https://www.linkedin.com/in/anderson-tegami  
+- 📫 Email: anderson.tegami@gmail.com
